@@ -1,0 +1,119 @@
+*{
+    padding:0;
+    margin:0;
+    	font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+    box-sizing: border-box;
+    
+}
+body{
+
+    background:linear-gradient(rgba(0,0,0,.7)),url(images/rDJegQJaCyGaYysj2g5XWY.jpg)
+ 
+}
+.container{
+
+
+width:480px;
+margin: auto;
+margin-top: -10px;
+padding:50px;
+background-color: rgba(0,0,0,.8);
+color:white;
+border-radius: 2px;
+padding-left:66px;
+padding-top: 72px;
+}
+
+.container h1{
+    font-weight: bold;
+    margin-top:-20px;
+margin-bottom: 20px;
+}
+
+.container .one{
+
+    padding:18px;
+    width: 97%;
+    margin: 10px;
+    background-color: rgb(55, 50, 50,.4);
+    border:1px solid grey;
+    border-radius: 5px;
+margin-left: -2px;
+color: white;
+font-size: 15px;
+}
+
+.container .one::placeholder{
+    font-size: 16px;
+    color:rgba(255,255,255,.7);
+
+}
+
+#to{
+   width: 97%;
+   padding:10px;
+   background-color: rgb(229, 9, 20);
+   color:white;
+   border: rgb(229,9,20);
+   border-radius:5px ;
+   padding-bottom: 15px;
+   font-weight: bold;
+   font-size: 15px;
+   margin-top: 10px;
+}
+
+#or{
+    text-align: center;
+    margin-top: 20px;
+    color:rgba(255,255,255,.7);
+    font-weight: bold;
+    font-size: 15px;
+
+}
+
+#use{
+
+width:97%;
+padding:10px;
+margin-top: 15px;
+background-color:rgba(128,128,128,.4);
+border:rgb(255,255,255);
+color:white;
+font-weight: bold;
+padding-bottom: 15px;
+border-radius: 5px;
+font-size: 15px;
+margin-bottom:15px;
+}
+
+.container .anchor{
+  margin-left: 110px;
+
+color: white;
+font-size: 15px;
+}
+
+.check{
+    margin-top: 20px;
+  transform: scale(1.5);
+  outline: none;
+  border: none;
+ 
+}
+
+.chec{
+    margin-left: 10px;
+}
+
+.container .one:focus::placeholder{
+    font-size: 12px;
+  padding:0px;
+
+}
+
+img{
+    width:210px;
+    margin-left: 125px;
+    margin-top: -10px;
+    height:10x;
+}
