@@ -7,7 +7,7 @@
 }
 body{
 
-    background:linear-gradient(rgba(0,0,0,.7)),url(images/rDJegQJaCyGaYysj2g5XWY.jpg)
+    background:linear-gradient(rgba(0,0,0,.7)),url(rDJegQJaCyGaYysj2g5XWY.jpg)
  
 }
 .container{
@@ -116,4 +116,5 @@ img{
     margin-left: 125px;
     margin-top: -10px;
     height:10x;
+
 }
